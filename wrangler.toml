@@ -1,6 +1,10 @@
-name = "shikkhaloy-api-1"
+name = "shikkhaloy-api-01"
 main = "main.py"
 compatibility_date = "2026-07-14"
 
 [compatibility_flags]
 python_workers = true
+
+# ক্লাউডফ্লেয়ারকে বলে দেওয়া যে কোনো স্ট্যাটিক ফাইল খোঁজার দরকার নেই
+[site]
+bucket = ""
