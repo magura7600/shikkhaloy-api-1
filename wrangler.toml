@@ -1,0 +1,6 @@
+name = "shikkhaloy-api-1"
+main = "main.py"
+compatibility_date = "2026-07-14"
+
+[compatibility_flags]
+python_workers = true
